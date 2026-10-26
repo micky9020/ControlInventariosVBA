@@ -1,0 +1,9 @@
+# Archivos temporales de Office
+~$*.xlsx
+~$*.xlsm
+*.tmp
+*.bak
+
+# Archivos locales con datos reales: no subir información sensible
+*.xlsm
+DatosProduccion/
